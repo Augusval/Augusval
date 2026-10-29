@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hola, soy Augusto Valentini
 
-<!--
-**Augusval/Augusval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante avanzado de Ingeniería en Informática (UADE) y desarrollador backend. Me apasiona construir soluciones que automaticen procesos y conecten sistemas antiguos con tecnologías modernas.
 
-Here are some ideas to get you started:
+### 🛠️ Mi Stack Técnico
+*   **Lenguajes:** Python, Java, SQL
+*   **Frameworks:** FastAPI, Pandas, Pydantic
+*   **Bases de datos:** SQLite, SQL Server, NoSQL
+*   **Herramientas:** Git, GitHub, Excel Avanzado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyecto Destacado
+*   [ERP Ventas API](https://github.com/Augusval/erp-ventas-api): Microservicio backend en FastAPI que procesa datos de un ERP legacy, los almacena en SQLite y expone endpoints REST documentados automáticamente.
+
+---
+📫 **Contacto:** [Mi LinkedIn](https://www.linkedin.com/in/augusto-valentini-967abb171/)
